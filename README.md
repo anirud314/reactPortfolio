@@ -7,5 +7,8 @@ Here is a local host screenshot.
 
 ![Local host screenshot](./Assets/local.gif)
 
-I cant get it to load properly on github pages, I think its because my file structure makes it choose the readme.md
+Here is the pages screenshot and url: https://anirud314.github.io/reactPortfolio/
 
+![github pages screenshot](./Assets/pages.gif)
+
+To sum up my shortcomings, due to running out of time I couldnt style it the way I wanted to, The stylesheet is just from a the module project we did for this module and a mix of some stuff I found on the internet. I wish I had time to do it, but I am down to the wire, and my project is in dire need of attention.
