@@ -6,3 +6,6 @@ I am currently finished with component building and writing the details within t
 Here is a local host screenshot.
 
 ![Local host screenshot](./Assets/local.gif)
+
+I cant get it to load properly on github pages, I think its because my file structure makes it choose the readme.md
+

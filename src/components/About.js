@@ -6,14 +6,14 @@ function About() {
       <div >
         <div>
           <h1>
-            Hi, I'm Reed.
-            <br />I love to build amazing
+            Hi, I'm Aniruddha.
+            <br />I am a avid learner
             apps.
           </h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+           I have graduated from CSUEB with a CS degree and a minor in business, I currently 
+           work for cognizant.
+           
           </p>
           <div>
             <a
@@ -27,7 +27,7 @@ function About() {
           </div>
         </div>
         <div>
-        
+
         </div>
       </div>
     </section>
